@@ -1,0 +1,7 @@
+export * from './AlbumPage'
+export * from './HomePage'
+export * from './CancionPage'
+export * from './Morenada'
+export * from './Taquiraris'
+export * from './Cuecas'
+export * from './Chuntunqui'
