@@ -104,6 +104,12 @@ a {
     border-bottom: 2px solid #56008c;
 }
 
+.cancionLetra {
+    width: 900px;
+    word-spacing: 2rem;
+    padding: 5rem 25rem 5rem 5rem;
+}
+
 .boxNosotros {
     height: 396px;
     background-image: url(https://lionsf1seguridad.com/wp-content/uploads/2022/07/BANNER-PARA-WEB-1-1024x396.jpg);

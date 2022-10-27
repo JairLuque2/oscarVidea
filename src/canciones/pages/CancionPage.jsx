@@ -65,8 +65,8 @@ export const CancionPage = () => {
 
 
                 </Grid>
-                <Grid item xs={12} sm={3} mx={"auto"} p={5} color="white" className='letra'>
-                    <Typography variant='subtitle1' color="white">
+                <Grid item xs={12} sm={6} color="white" className='letra'>
+                    <Typography variant='subtitle1' color="white" className='cancionLetra'>
                         {cancion.letra}
                     </Typography>
                 </Grid>

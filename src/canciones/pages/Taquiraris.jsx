@@ -10,7 +10,7 @@ export const Taquiraris = () => {
                     <Typography variant='h2' color="white" sx={{ textAlign: "center" }}>Taquiraris</Typography>
                 </Grid>
                 <Grid item sm={12}>
-                    <SongList ritmo={'taquirari'} />
+                    <SongList ritmo={'taquiraris'} />
                 </Grid>
             </Grid>
         </CancionesLayout>

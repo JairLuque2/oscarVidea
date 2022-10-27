@@ -44,7 +44,7 @@ export const NavBar = () => {
                             display="flex"
                             alignItems="center"
                             justifyContent="center"
-                            sx={{ height: "100%", width: "20%" }}
+                            sx={{ height: "100%", width: "14%" }}
                         >
                             <NavLink
                                 to="/"
@@ -52,14 +52,74 @@ export const NavBar = () => {
                                     `link ${isActive ? 'active' : ''}`
                                 }
                             >
-                                INICIO
+                                Inicio
                             </NavLink>
                         </Box>
                         <Box
                             display="flex"
                             alignItems="center"
                             justifyContent="center"
-                            sx={{ height: "100%", width: "20%" }}
+                            sx={{ height: "100%", width: "14%" }}
+                        >
+                            <NavLink
+                                to="/romanticaFlor"
+                                className={({ isActive }) =>
+                                    `link ${isActive ? 'active' : ''}`
+                                }
+                            >
+                                Romantica FLor
+                            </NavLink>
+                        </Box>
+                        <Box
+                            display="flex"
+                            alignItems="center"
+                            justifyContent="center"
+                            sx={{ height: "100%", width: "14%" }}
+                        >
+                            <NavLink
+                                to="/preciosaFlor"
+                                className={({ isActive }) =>
+                                    `link ${isActive ? 'active' : ''}`
+                                }
+                            >
+                                Preciosa Flor
+                            </NavLink>
+                        </Box>
+                        <Box
+                            display="flex"
+                            alignItems="center"
+                            justifyContent="center"
+                            sx={{ height: "100%", width: "14%" }}
+                        >
+                            <NavLink
+                                to="/bolivianitaDulceColor"
+                                className={({ isActive }) =>
+                                    `link ${isActive ? 'active' : ''}`
+                                }
+                            >
+                                Bolivianita Dulce Color
+                            </NavLink>
+                        </Box>
+                        <Box
+                            display="flex"
+                            alignItems="center"
+                            justifyContent="center"
+                            sx={{ height: "100%", width: "14%" }}
+                        >
+                            <NavLink
+                                to="/cantaYuriOrtuno"
+                                className={({ isActive }) =>
+                                    `link ${isActive ? 'active' : ''}`
+                                }
+                            >
+                                Canta Yuri Ortuño
+                            </NavLink>
+                        </Box>
+                        <Box
+                            display="flex"
+                            alignItems="center"
+                            justifyContent="center"
+                            sx={{ height: "100%", width: "14%" }}
                         >
                             <NavLink
                                 to="/taquiraris"
@@ -67,52 +127,22 @@ export const NavBar = () => {
                                     `link ${isActive ? 'active' : ''}`
                                 }
                             >
-                                TAQUIRARIS
+                                Taquiraris
                             </NavLink>
                         </Box>
                         <Box
                             display="flex"
                             alignItems="center"
                             justifyContent="center"
-                            sx={{ height: "100%", width: "20%" }}
+                            sx={{ height: "100%", width: "14%" }}
                         >
                             <NavLink
-                                to="/morenada"
+                                to="/morenadaYCuecas"
                                 className={({ isActive }) =>
                                     `link ${isActive ? 'active' : ''}`
                                 }
                             >
-                                MORENADA
-                            </NavLink>
-                        </Box>
-                        <Box
-                            display="flex"
-                            alignItems="center"
-                            justifyContent="center"
-                            sx={{ height: "100%", width: "20%" }}
-                        >
-                            <NavLink
-                                to="/cuecas"
-                                className={({ isActive }) =>
-                                    `link ${isActive ? 'active' : ''}`
-                                }
-                            >
-                                CUECAS
-                            </NavLink>
-                        </Box>
-                        <Box
-                            display="flex"
-                            alignItems="center"
-                            justifyContent="center"
-                            sx={{ height: "100%", width: "20%" }}
-                        >
-                            <NavLink
-                                to="/chuntunqui"
-                                className={({ isActive }) =>
-                                    `link ${isActive ? 'active' : ''}`
-                                }
-                            >
-                                CHUNTUNQUI Y CH'UTAS
+                                Moredanas y Cuecas
                             </NavLink>
                         </Box>
                     </Grid>

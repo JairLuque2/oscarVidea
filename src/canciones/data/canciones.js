@@ -1,7 +1,7 @@
 export const canciones = [
     {
         id: "1",
-        ritmo: "morenada",
+        ritmo: "morenadasYCuecas",
         title: "Carnaval de Oruro",
         linkCantado: "https://www.youtube.com/embed/981EXzhHVO0",
         linkInstrumental: "https://www.youtube.com/embed/B0bNjqYgajA",
@@ -25,7 +25,7 @@ export const canciones = [
     },
     {
         id: "4",
-        ritmo: "morenada",
+        ritmo: "morenadasYCuecas",
         title: "Tu Cariñito",
         linkCantado: "ttps://www.youtube.com/embed/aGjH3XH36bQ",
         linkInstrumental: "https://www.youtube.com/embed/p3pGg5l7QtY",
