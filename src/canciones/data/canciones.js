@@ -1,3 +1,16 @@
+// Posibles ritmos
+
+// "romanticaFlor", "preciosaFlor", "bolivianitaDulceColor", "CantaYuriOrtuno", "taquiraris", "morenadasYCuecas"
+
+// Modelo de cancion
+// id: "1",
+// ritmo: "Ritmo de la cacion",
+// title: "Titulo de la cancion",
+// linkCantado: "Link sacado de youtube",
+// linkInstrumental: "Link sacado de youtube",
+// letra: `Letra de la cancion`
+
+
 export const canciones = [
     {
         id: "1",

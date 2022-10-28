@@ -1,6 +1,7 @@
 import { Grid, Typography } from "@mui/material";
 import { CrisisAlert, Visibility, AddTask, AssistantPhoto, AssuredWorkload, AutoGraph, Balance } from "@mui/icons-material";
 import { CancionesLayout } from "../layout/CancionesLayout";
+import { Carousel } from "../components/Carousel";
 
 
 export const HomePage = () => {
@@ -16,16 +17,17 @@ export const HomePage = () => {
                 className="fondo"
                 sx={{ backgroundColor: "black" }}
             >
+                <Carousel />
                 <Grid
                     container
                     justifyContent="center"
-                    className="textoFondoOscuro"
                 >
                     <Grid
                         item
                         sm={12}
-                        className="title"
+                        className="title textoFondoOscuro"
                         my={5}
+
                     >
                         <Typography variant="h4">
                             OSCAR <span className="titleColor">VIDEA</span>
@@ -35,6 +37,8 @@ export const HomePage = () => {
                         item
                         sm={12}
                         px={{ xs: 5, sm: 60 }}
+                        className="textoFondoOscuro"
+
                     >
                         <Typography variant="h4">
                             <span className="titleColor">Prologo</span>
@@ -56,6 +60,7 @@ export const HomePage = () => {
                     <Grid
                         item
                         sm={12}
+                        className="textoFondoOscuro"
                         px={{ xs: 5, sm: 60 }}
                     >
                         <Typography variant="h4">
@@ -77,6 +82,7 @@ export const HomePage = () => {
                     <Grid
                         item
                         sm={12}
+                        className="textoFondoOscuro"
                         px={{ xs: 5, sm: 60 }}
                     >
                         <Typography variant="h4">
