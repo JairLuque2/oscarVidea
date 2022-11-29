@@ -16,6 +16,126 @@
 
 export const canciones = [
     {
+        id: "76",
+        ritmo: "morenadasYCuecas",
+        title: "La Gran Central",
+        linkCantado: "https://www.youtube.com/embed/BgVe_5gPFNE",
+        linkInstrumental: "https://www.youtube.com/embed/CVWM-I0VcMU",
+        letra: ``
+    },
+    {
+        id: "75",
+        ritmo: "morenadasYCuecas",
+        title: "Carnaval de Oruro",
+        linkCantado: "https://www.youtube.com/embed/981EXzhHVO0",
+        linkInstrumental: "https://www.youtube.com/embed/CVWM-I0VcMU",
+        letra: ``
+    },
+    {
+        id: "74",
+        ritmo: "morenadasYCuecas",
+        title: "Fiesta Orureña",
+        linkCantado: "https://www.youtube.com/embed/ezW7lKbKxlc",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "73",
+        ritmo: "morenadasYCuecas",
+        title: "Tu Cariñito",
+        linkCantado: "https://www.youtube.com/embed/aGjH3XH36bQ",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "72",
+        ritmo: "morenadasYCuecas",
+        title: "Dudas de Mi",
+        linkCantado: "https://www.youtube.com/embed/iaM3Lju4EL8",
+        linkInstrumental: "https://www.youtube.com/embed/Zy7Ww-62TYg",
+        letra: ``
+    },
+    {
+        id: "71",
+        ritmo: "morenadasYCuecas",
+        title: "El Desencanto",
+        linkCantado: "https://www.youtube.com/embed/PNesEOSm3xY",
+        linkInstrumental: "https://www.youtube.com/embed/7I1CswcK4jE",
+        letra: ``
+    },
+    {
+        id: "70",
+        ritmo: "morenadasYCuecas",
+        title: "La Ternura de tu Mirada",
+        linkCantado: "https://www.youtube.com/embed/EaPkPNO4eAA",
+        linkInstrumental: "https://www.youtube.com/embed/H2P2-jZFS18",
+        letra: ``
+    },
+    {
+        id: "69",
+        ritmo: "morenadasYCuecas",
+        title: "El Desengaño",
+        linkCantado: "https://www.youtube.com/embed/LTQ8OyLND-I",
+        linkInstrumental: "https://www.youtube.com/embed/QhoHGlXtv6s",
+        letra: ``
+    },
+    {
+        id: "68",
+        ritmo: "morenadasYCuecas",
+        title: "Delirio de Amor",
+        linkCantado: "https://www.youtube.com/embed/N2gyUsVhHNg",
+        linkInstrumental: "https://www.youtube.com/embed/IocACK6kS_Y",
+        letra: ``
+    },
+    {
+        id: "67",
+        ritmo: "morenadasYCuecas",
+        title: "Recuerdos Guardados",
+        linkCantado: "https://www.youtube.com/embed/sH2y6juESjQ",
+        linkInstrumental: "https://www.youtube.com/embed/1OxNXXbBqgo",
+        letra: ``
+    },
+    {
+        id: "66",
+        ritmo: "morenadasYCuecas",
+        title: "Te Extraño Bolivia",
+        linkCantado: "https://www.youtube.com/embed/dx3PH43Hl5o",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "65",
+        ritmo: "morenadasYCuecas",
+        title: "Por Tu Traición",
+        linkCantado: "https://www.youtube.com/embed/6DFzeZXNb8w",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "64",
+        ritmo: "morenadasYCuecas",
+        title: "Nunca Te Olvidaré",
+        linkCantado: "https://www.youtube.com/embed/prrKmPCeKek",
+        linkInstrumental: "",
+        letra: ``
+    }, 
+    {
+        id: "63",
+        ritmo: "morenadasYCuecas",
+        title: "Amor Imposible",
+        linkCantado: "https://www.youtube.com/embed/lI3dATc2kNY",
+        linkInstrumental: "",
+        letra: ``
+    }, 
+    {
+        id: "62",
+        ritmo: "taquiraris",
+        title: "Blanco Tipoy",
+        linkCantado: "https://www.youtube.com/embed/l4mW1uy3aP8",
+        linkInstrumental: "https://www.youtube.com/embed/w0nmetYvvvA",
+        letra: ``
+    }, 
+    {
         id: "62",
         ritmo: "taquiraris",
         title: "Blanco Tipoy",
