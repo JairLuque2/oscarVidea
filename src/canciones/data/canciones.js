@@ -16,6 +16,110 @@
 
 export const canciones = [
     {
+        id: "29",
+        ritmo: "preciosaFlor",
+        title: "Aflicción",
+        linkCantado: "https://www.youtube.com/embed/brL-Kw1735Y",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "28",
+        ritmo: "preciosaFlor",
+        title: "Amor Juvenil",
+        linkCantado: "https://www.youtube.com/embed/PG9KmNBtqCo",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "27",
+        ritmo: "preciosaFlor",
+        title: "Sueños de Amor",
+        linkCantado: "https://www.youtube.com/embed/fwrN1fwybCc",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "26",
+        ritmo: "preciosaFlor",
+        title: "Por Tu Abandono",
+        linkCantado: "https://www.youtube.com/embed/vKdLWLq8HpQ",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "25",
+        ritmo: "preciosaFlor",
+        title: "Tu Perfume",
+        linkCantado: "https://www.youtube.com/embed/j-JughJmFSo",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "24",
+        ritmo: "preciosaFlor",
+        title: "Flor Cautiva",
+        linkCantado: "https://www.youtube.com/embed/1OuntsSkino",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "23",
+        ritmo: "preciosaFlor",
+        title: "Amor Imposible",
+        linkCantado: "https://www.youtube.com/embed/-1d7JX_6wyw",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "22",
+        ritmo: "preciosaFlor",
+        title: "Nunca te Olvidaré",
+        linkCantado: "https://www.youtube.com/embed/zNzIRPXo_FE",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "21",
+        ritmo: "preciosaFlor",
+        title: "Ofélia",
+        linkCantado: "https://www.youtube.com/embed/AcjlbF-cihI",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "20",
+        ritmo: "preciosaFlor",
+        title: "Por tu Traición",
+        linkCantado: "https://www.youtube.com/embed/ewZy_9kVHl4",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "19",
+        ritmo: "preciosaFlor",
+        title: "Orgullosa Rosa",
+        linkCantado: "https://www.youtube.com/embed/SK2FDd0fwok",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "18",
+        ritmo: "preciosaFlor",
+        title: "Noches de Nostalgia",
+        linkCantado: "https://www.youtube.com/embed/Lu9UOyGwhNE",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
+        id: "17",
+        ritmo: "preciosaFlor",
+        title: "Blanca Azucena",
+        linkCantado: "https://www.youtube.com/embed/BJvHkvlGK3g",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
         id: "16",
         ritmo: "preciosaFlor",
         title: "Preciosa Flor",
