@@ -16,6 +16,150 @@
 
 export const canciones = [
     {
+        id: "62",
+        ritmo: "taquiraris",
+        title: "Blanco Tipoy",
+        linkCantado: "https://www.youtube.com/embed/l4mW1uy3aP8",
+        linkInstrumental: "https://www.youtube.com/embed/w0nmetYvvvA",
+        letra: ``
+    },  
+    {
+        id: "61",
+        ritmo: "taquiraris",
+        title: "Corazón Camba",
+        linkCantado: "https://www.youtube.com/embed/WgAlr-WHLdc",
+        linkInstrumental: "https://www.youtube.com/embed/tpLVMSWOaQI",
+        letra: ``
+    },  
+    {
+        id: "60",
+        ritmo: "taquiraris",
+        title: "Corazón Desolado",
+        linkCantado: "https://www.youtube.com/embed/1hZrtNkbW4g",
+        linkInstrumental: "https://www.youtube.com/embed/Y5migb3Uros",
+        letra: ``
+    },  
+    {
+        id: "59",
+        ritmo: "taquiraris",
+        title: "Cruceña Feliz",
+        linkCantado: "https://www.youtube.com/embed/fo1tC85cW0Q",
+        linkInstrumental: "https://www.youtube.com/embed/BTplcgaWVyQ",
+        letra: ``
+    },  
+    {
+        id: "58",
+        ritmo: "taquiraris",
+        title: "El Pauro",
+        linkCantado: "https://www.youtube.com/embed/CIlaL9dsppg",
+        linkInstrumental: "https://www.youtube.com/embed/DJkvqqMNqH8",
+        letra: ``
+    },  
+    {
+        id: "57",
+        ritmo: "taquiraris",
+        title: "Flor de Cupesi",
+        linkCantado: "https://www.youtube.com/embed/megcLmoQhXQ",
+        linkInstrumental: "https://www.youtube.com/embed/z8mgMVneKk8",
+        letra: ``
+    },  
+    {
+        id: "56",
+        ritmo: "taquiraris",
+        title: "Florecita Oriental",
+        linkCantado: "https://www.youtube.com/embed/XpiHph38Kok",
+        linkInstrumental: "https://www.youtube.com/embed/VE_hAyjWPzU",
+        letra: ``
+    },  
+    {
+        id: "55",
+        ritmo: "taquiraris",
+        title: "Insomnio de Amor",
+        linkCantado: "https://www.youtube.com/embed/28tbTXps-4E",
+        linkInstrumental: "https://www.youtube.com/embed/JD0bEOIwpts",
+        letra: ``
+    },  
+    {
+        id: "54",
+        ritmo: "taquiraris",
+        title: "Mi Cunumi",
+        linkCantado: "https://www.youtube.com/embed/KvEuJ6qv3Bs",
+        linkInstrumental: "https://www.youtube.com/embed/F1k0bmeEZ58",
+        letra: ``
+    },  
+    {
+        id: "53",
+        ritmo: "taquiraris",
+        title: "Mi Paguichi",
+        linkCantado: "https://www.youtube.com/embed/OWEkke84xJ8",
+        linkInstrumental: "https://www.youtube.com/embed/lBrydy0fAUo",
+        letra: ``
+    },  
+    {
+        id: "52",
+        ritmo: "taquiraris",
+        title: "Mis Sueños Tu Sonrisa",
+        linkCantado: "https://www.youtube.com/embed/BeA4VeC7VsU",
+        linkInstrumental: "https://www.youtube.com/embed/37pIh9BbBek",
+        letra: ``
+    },  
+    {
+        id: "51",
+        ritmo: "taquiraris",
+        title: "Pelau Pa´ Na´",
+        linkCantado: "https://www.youtube.com/embed/1aelMdxV63o",
+        linkInstrumental: "https://www.youtube.com/embed/blwrk9Eh2rM",
+        letra: ``
+    },   
+    {
+        id: "50",
+        ritmo: "taquiraris",
+        title: "Perfume de Rosas",
+        linkCantado: "https://www.youtube.com/embed/ErGkKeIjKcQ",
+        linkInstrumental: "https://www.youtube.com/embed/wVHVzo02VGw",
+        letra: ``
+    },   
+    {
+        id: "49",
+        ritmo: "taquiraris",
+        title: "Sueños de Carnaval",
+        linkCantado: "https://www.youtube.com/embed/o_AN3qXMIUU",
+        linkInstrumental: "https://www.youtube.com/embed/_OoyT4YGaE4",
+        letra: ``
+    },   
+    {
+        id: "48",
+        ritmo: "taquiraris",
+        title: "Te Extraño Santa Cruz",
+        linkCantado: "https://www.youtube.com/embed/eatk2qPMNhk",
+        linkInstrumental: "https://www.youtube.com/embed/THHGwJqYChk",
+        letra: ``
+    },    
+    {
+        id: "47",
+        ritmo: "taquiraris",
+        title: "Te Vi Llegar",
+        linkCantado: "https://www.youtube.com/embed/qF0PVZdw-x4",
+        linkInstrumental: "https://www.youtube.com/embed/voPBCJBMcxE",
+        letra: ``
+    },    
+    {
+        id: "46",
+        ritmo: "taquiraris",
+        title: "La Ausencia",
+        linkCantado: "https://www.youtube.com/embed/26fYgtU8_0I",
+        linkInstrumental: "",
+        letra: ``
+    },    
+    {
+        id: "45",
+        ritmo: "taquiraris",
+        title: "Tu Cariñito",
+        linkCantado: "https://www.youtube.com/embed/_yVqlJoMGlE",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
         id: "44",
         ritmo: "romanticaFlor",
         title: "Romantica Flor",
