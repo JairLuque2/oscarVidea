@@ -16,6 +16,78 @@
 
 export const canciones = [
     {
+        id: "84",
+        ritmo: "CantaYuriOrtuno",
+        title: "La Soledad",
+        linkCantado: "https://www.youtube.com/embed/d0Q64l2kDOo",
+        linkInstrumental: "https://www.youtube.com/embed/NSWiKv0rQS8",
+        letra: ``
+    },
+    {
+        id: "83",
+        ritmo: "CantaYuriOrtuno",
+        title: "Lago Sagrado",
+        linkCantado: "https://www.youtube.com/embed/d0Q64l2kDOo",
+        linkInstrumental: "https://www.youtube.com/embed/XXQZRH3bziI",
+        letra: ``
+    },
+    {
+        id: "82",
+        ritmo: "CantaYuriOrtuno",
+        title: "La Fiesta Mayor",
+        linkCantado: "https://www.youtube.com/embed/Jt0wN6zTm7k",
+        linkInstrumental: "https://www.youtube.com/embed/tG88l49ta5o",
+        letra: ``
+    },
+    {
+        id: "81",
+        ritmo: "CantaYuriOrtuno",
+        title: "A 5 000 Metros",
+        linkCantado: "https://www.youtube.com/embed/P6_IdOVZSys",
+        linkInstrumental: "https://www.youtube.com/embed/mNBNtyApO7k",
+        letra: ``
+    },
+    {
+        id: "80",
+        ritmo: "CantaYuriOrtuno",
+        title: "Ch'utas de Chuchulaya",
+        linkCantado: "https://www.youtube.com/embed/DQ0zCwIKbpc",
+        linkInstrumental: "https://www.youtube.com/embed/nHb_Vf97Rfo",
+        letra: ``
+    },
+    {
+        id: "80",
+        ritmo: "CantaYuriOrtuno",
+        title: "Tu Mirada",
+        linkCantado: "https://www.youtube.com/embed/DQ0zCwIKbpc",
+        linkInstrumental: "https://www.youtube.com/embed/nHb_Vf97Rfo",
+        letra: ``
+    },
+    {
+        id: "79",
+        ritmo: "CantaYuriOrtuno",
+        title: "Tu Mirada",
+        linkCantado: "https://www.youtube.com/embed/CG6qJZ0lFc4",
+        linkInstrumental: "https://www.youtube.com/embed/P1yqv4F5pjg",
+        letra: ``
+    },
+    {
+        id: "78",
+        ritmo: "CantaYuriOrtuno",
+        title: "Amor Kolla",
+        linkCantado: "https://www.youtube.com/embed/EHaTEKMbNZs",
+        linkInstrumental: "https://www.youtube.com/embed/weWcYyzpjJQ",
+        letra: ``
+    },
+    {
+        id: "77",
+        ritmo: "CantaYuriOrtuno",
+        title: "Encantos de mi Cholita",
+        linkCantado: "https://www.youtube.com/embed/IO7cDJoMYF8",
+        linkInstrumental: "https://www.youtube.com/embed/CXWTc5NQc2w",
+        letra: ``
+    },
+    {
         id: "76",
         ritmo: "morenadasYCuecas",
         title: "La Gran Central",
