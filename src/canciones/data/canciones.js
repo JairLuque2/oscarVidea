@@ -16,6 +16,14 @@
 
 export const canciones = [
     {
+        id: "16",
+        ritmo: "preciosaFlor",
+        title: "Preciosa Flor",
+        linkCantado: "https://www.youtube.com/embed/-_DfP8Qw_UQ",
+        linkInstrumental: "",
+        letra: ``
+    },
+    {
         id: "15",
         ritmo: "bolivianitaDulceColor",
         title: "Mi sufrir",
