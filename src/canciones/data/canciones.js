@@ -16,6 +16,126 @@
 
 export const canciones = [
     {
+        id: "44",
+        ritmo: "romanticaFlor",
+        title: "Romantica Flor",
+        linkCantado: "https://www.youtube.com/embed/kw14dBHKdA8",
+        linkInstrumental: "https://www.youtube.com/embed/mkhwumRFLxM",
+        letra: ``
+    },
+    {
+        id: "43",
+        ritmo: "romanticaFlor",
+        title: "La Espera",
+        linkCantado: "https://www.youtube.com/embed/W0XBJPydGDs",
+        linkInstrumental: "https://www.youtube.com/embed/WtEgY1owVqU",
+        letra: ``
+    },
+    {
+        id: "42",
+        ritmo: "romanticaFlor",
+        title: "Celos Grises",
+        linkCantado: "https://www.youtube.com/embed/H3kFqf9BHik",
+        linkInstrumental: "https://www.youtube.com/embed/xNssStrt2os",
+        letra: ``
+    },
+    {
+        id: "41",
+        ritmo: "romanticaFlor",
+        title: "Palabras Prohibidas",
+        linkCantado: "https://www.youtube.com/embed/QxRGNT6bV88",
+        linkInstrumental: "https://www.youtube.com/embed/6F1i3JHZRf8",
+        letra: ``
+    },
+    {
+        id: "40",
+        ritmo: "romanticaFlor",
+        title: "Noche Solitaria",
+        linkCantado: "https://www.youtube.com/embed/1zg6HQy9EGQ",
+        linkInstrumental: "https://www.youtube.com/embed/UHa6tmHQHes",
+        letra: ``
+    },
+    {
+        id: "39",
+        ritmo: "romanticaFlor",
+        title: "Hija de la Luna",
+        linkCantado: "https://www.youtube.com/embed/LQ8awyN8JmA",
+        linkInstrumental: "https://www.youtube.com/embed/DiS9CgOOUsM",
+        letra: ``
+    },
+    {
+        id: "38",
+        ritmo: "romanticaFlor",
+        title: "Te Extraño Bolivia",
+        linkCantado: "https://www.youtube.com/embed/iAy4ViWnHuU",
+        linkInstrumental: "https://www.youtube.com/embed/6utf34lsWmg",
+        letra: ``
+    },
+    {
+        id: "37",
+        ritmo: "romanticaFlor",
+        title: "La Coquetona",
+        linkCantado: "https://www.youtube.com/embed/5-Aj3xqXob0",
+        linkInstrumental: "https://www.youtube.com/embed/uyYWj-CkMG0",
+        letra: ``
+    },
+    {
+        id: "36",
+        ritmo: "romanticaFlor",
+        title: "Si Pudieras Creerme",
+        linkCantado: "https://www.youtube.com/embed/9MFKOUfXO4s",
+        linkInstrumental: "https://www.youtube.com/embed/Jqhu3JOOV8U",
+        letra: ``
+    },
+    {
+        id: "35",
+        ritmo: "romanticaFlor",
+        title: "Tan Lejos de Ti",
+        linkCantado: "https://www.youtube.com/embed/2OWfT82K2KQ",
+        linkInstrumental: "https://www.youtube.com/embed/ak5wuz-ZW68",
+        letra: ``
+    },
+    {
+        id: "34",
+        ritmo: "romanticaFlor",
+        title: "Mi Tierra Valluna",
+        linkCantado: "https://www.youtube.com/embed/BhVqHLvXb40",
+        linkInstrumental: "https://www.youtube.com/embed/jIPAtRHx-QM",
+        letra: ``
+    },
+    {
+        id: "33",
+        ritmo: "romanticaFlor",
+        title: "Blancos Claveles",
+        linkCantado: "https://www.youtube.com/embed/907y8jC5X9M",
+        linkInstrumental: "https://www.youtube.com/embed/M7fXsC_x4KM",
+        letra: ``
+    },
+    {
+        id: "32",
+        ritmo: "romanticaFlor",
+        title: "Mal de Amores",
+        linkCantado: "https://www.youtube.com/embed/tXwlyXFuwps",
+        linkInstrumental: "https://www.youtube.com/embed/Nb8b1K7Vg6k",
+        letra: ``
+    },
+    {
+        id: "31",
+        ritmo: "romanticaFlor",
+        title: "Cuando Llega el Amor",
+        linkCantado: "https://www.youtube.com/embed/qnJdJ_sf3Hk",
+        linkInstrumental: "https://www.youtube.com/embed/FWjW6AfLYbI",
+        letra: ``
+    },
+    {
+        id: "30",
+        ritmo: "romanticaFlor",
+        title: "Niña Bella",
+        linkCantado: "https://www.youtube.com/embed/-GFT0jGw_Eg",
+        linkInstrumental: "https://www.youtube.com/embed/y_d_NorAFpU",
+        letra: ``
+    },
+    {
         id: "29",
         ritmo: "preciosaFlor",
         title: "Preciosa Flor",
