@@ -28,7 +28,7 @@ export const canciones = [
         ritmo: "bolivianitaDulceColor",
         title: "Bolivianita Dulce Color",
         linkCantado: "https://www.youtube.com/embed/6_4TcAkIT4o",
-        linkInstrumental: "https://www.youtube.com/embed/6_4TcAkIT4o",
+        linkInstrumental: "https://www.youtube.com/embed/OIMgvEPTF3M",
         letra: ``
     },
     
