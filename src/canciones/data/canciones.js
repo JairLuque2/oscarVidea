@@ -16,7 +16,7 @@
 
 export const canciones = [
     {
-        id: "1",
+        id: "",
         ritmo: "romanticaFlor",
         title: "Carnaval de Oruro",
         linkCantado: "https://www.youtube.com/embed/981EXzhHVO0",
