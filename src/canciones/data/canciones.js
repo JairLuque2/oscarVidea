@@ -16,11 +16,19 @@
 
 export const canciones = [
     {
-        id: "1",
+        id: "2",
         ritmo: "romanticaFlor",
         title: "Carnaval de Oruro",
         linkCantado: "https://www.youtube.com/embed/981EXzhHVO0",
         linkInstrumental: "https://www.youtube.com/embed/B0bNjqYgajA",
+        letra: ``
+    },
+    {
+        id: "1",
+        ritmo: "bolivianitaDulceColor",
+        title: "Bolivianita Dulce Color",
+        linkCantado: "https://www.youtube.com/embed/6_4TcAkIT4o",
+        linkInstrumental: "https://www.youtube.com/embed/6_4TcAkIT4o",
         letra: ``
     },
     
