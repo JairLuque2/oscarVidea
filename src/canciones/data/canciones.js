@@ -16,6 +16,14 @@
 
 export const canciones = [
     {
+        id: "3",
+        ritmo: "bolivianitaDulceColor",
+        title: "Te extraño bolivia",
+        linkCantado: "https://www.youtube.com/embed/EK06MaW2_II",
+        linkInstrumental: "https://www.youtube.com/embed/6utf34lsWmg",
+        letra: ``
+    },
+    {
         id: "2",
         ritmo: "romanticaFlor",
         title: "Carnaval de Oruro",
