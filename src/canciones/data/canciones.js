@@ -16,6 +16,78 @@
 
 export const canciones = [
     {
+        id: "15",
+        ritmo: "bolivianitaDulceColor",
+        title: "Mi sufrir",
+        linkCantado: "https://www.youtube.com/embed/Ayvu2mnLQBY",
+        linkInstrumental: "https://www.youtube.com/embed/iHVvHKQI7mc",
+        letra: ``
+    },
+    {
+        id: "14",
+        ritmo: "bolivianitaDulceColor",
+        title: "La soñadora",
+        linkCantado: "https://www.youtube.com/embed/W4S77EVbBHg",
+        linkInstrumental: "https://www.youtube.com/embed/ZeeUsYHkZqk",
+        letra: ``
+    },
+    {
+        id: "13",
+        ritmo: "bolivianitaDulceColor",
+        title: "Capinoteña",
+        linkCantado: "https://www.youtube.com/embed/_TexNo8Zw1k",
+        linkInstrumental: "https://www.youtube.com/embed/9L2iSzK0NiQ",
+        letra: ``
+    },
+    {
+        id: "12",
+        ritmo: "bolivianitaDulceColor",
+        title: "Orgullo de amor",
+        linkCantado: "https://www.youtube.com/embed/hGb8jckodR8",
+        linkInstrumental: "https://www.youtube.com/embed/rvg7cn3bouw",
+        letra: ``
+    },
+    {
+        id: "11",
+        ritmo: "bolivianitaDulceColor",
+        title: "Figura angelical",
+        linkCantado: "https://www.youtube.com/embed/KBIr3FQYpos",
+        linkInstrumental: "https://www.youtube.com/embed/V6PdDmaVAjY",
+        letra: ``
+    },
+    {
+        id: "10",
+        ritmo: "bolivianitaDulceColor",
+        title: "Oscura soledad",
+        linkCantado: "https://www.youtube.com/embed/TAAYtyvgD_w",
+        linkInstrumental: "https://www.youtube.com/embed/dccLCF0ou9M",
+        letra: ``
+    },
+    {
+        id: "9",
+        ritmo: "bolivianitaDulceColor",
+        title: "Morenita de ravelo",
+        linkCantado: "https://www.youtube.com/embed/HVF6LgkJ0NQ",
+        linkInstrumental: "https://www.youtube.com/embed/xBZNsxoUzRs",
+        letra: ``
+    },
+    {
+        id: "8",
+        ritmo: "bolivianitaDulceColor",
+        title: "El mar nuestro",
+        linkCantado: "https://www.youtube.com/embed/BizJ2jzmRFY",
+        linkInstrumental: "https://www.youtube.com/embed/7djHWrh9csA",
+        letra: ``
+    },
+    {
+        id: "7",
+        ritmo: "bolivianitaDulceColor",
+        title: "Apolo",
+        linkCantado: "https://www.youtube.com/embed/S9PAgENS-dc",
+        linkInstrumental: "https://www.youtube.com/embed/Bu9EbSHAgh4",
+        letra: ``
+    },
+    {
         id: "6",
         ritmo: "bolivianitaDulceColor",
         title: "Orgullosa cholita",
