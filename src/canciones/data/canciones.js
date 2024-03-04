@@ -15,6 +15,13 @@
 //SIEMPRE PONER , AL FINAL DE CADA {} Y SIEMPRE PONER , AL FINAL DE CADA PROPIEDAD DE LA CACANCION
 
 export const canciones = 
+        id: "86",
+        ritmo: "CantaYuriOrtuno III",
+        title: "Fiesta del gran poder",
+        linkCantado: "https://www.youtube.com/embed/HDQ1sRb1EbU?si=S8G9wFSihPILWxw2",
+        linkInstrumental: "https://www.youtube.com/watch?v=osLYeARhczM&list=PLWj_Vn0lhuZ_I3fO4l7fg0jvSK8aQNoTS",
+        letra: ``
+    },
     {
         id: "85",
         ritmo: "CantaYuriOrtuno",
